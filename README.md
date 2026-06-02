@@ -1,6 +1,6 @@
 # Gunjan Kotak
 
-Research Associate at the University of Westminster, working on [Swarmchestrate](https://www.swarmchestrate.eu) — an EU Horizon-funded platform for distributed orchestration across cloud and edge environments.
+Research Associate at the University of Westminster, working on [Swarmchestrate](https://www.swarmchestrate.eu) an EU Horizon-funded platform for distributed orchestration across cloud and edge environments.
 
 I build the infrastructure side: provisioning pipelines, k3s cluster formation across cloud and edge nodes, in-cluster Kubernetes tooling, and a TOSCA-to-Kubernetes translation engine. Python libraries I've written for the project are published on PyPI.
 
