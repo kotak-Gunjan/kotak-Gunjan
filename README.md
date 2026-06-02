@@ -1,36 +1,17 @@
 # Gunjan Kotak
 
-### Research Software Engineer | Cloud-Native & Distributed Systems | AI Infrastructure & Platform Engineering
+Research Associate at the University of Westminster, working on [Swarmchestrate](https://www.swarmchestrate.eu) — an EU Horizon-funded platform for distributed orchestration across cloud and edge environments.
 
-Research Associate working on cloud-to-edge orchestration systems, Kubernetes-based infrastructure platforms, and distributed computing environments.
+I build the infrastructure side: provisioning pipelines, k3s cluster formation across cloud and edge nodes, in-cluster Kubernetes tooling, and a TOSCA-to-Kubernetes translation engine. Python libraries I've written for the project are published on PyPI.
 
-I design and build **scalable cloud-native infrastructure systems** that automate provisioning, orchestration, and management of distributed workloads across cloud and edge environments.
-
-
-
-## 🛠 Technical Stack
-
-### Infrastructure & Cloud
-- Kubernetes / K3s
-- Docker
-- OpenTofu / Terraform
-- AWS
-- OpenStack
-
-### Systems & Programming
-- Python
-- Bash
-- Linux systems
-- REST APIs
-- Distributed systems design
+Previously a Senior Software Engineer at LTIMindtree, building IoT platform infrastructure for Scania.
 
 ---
 
+**Core stack**
 
-## 📫 Connect
-
-- LinkedIn: https://www.linkedin.com/in/gunjan-kotak-76a444128/
+Python · Kubernetes · k3s · Docker · OpenTofu · AWS · OpenStack · TOSCA · GitLab CI/CD
 
 ---
 
-
+[LinkedIn](https://www.linkedin.com/in/gunjan-kotak-76a444128/) · [Swarmchestrate Project](https://www.swarmchestrate.eu)
