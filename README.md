@@ -12,13 +12,14 @@ I build infrastructure automation that runs applications across cloud and edge, 
 
 | Library | What it does | Install |
 |---|---|---|
-| [**k3s-client**](https://github.com/Swarmchestrate/k3s-client) | In-cluster orchestration for K3s: server-side apply, real dry runs, node pinning. Author and lead developer. | [![PyPI](https://img.shields.io/pypi/v/k3s-client)](https://pypi.org/project/k3s-client/) |
+| [**k3s-client**](https://github.com/Swarmchestrate/k3s-client) | Deploys, updates and removes applications on K3s clusters, with server-side apply, dry runs and node pinning. Author and lead developer. | [![PyPI](https://img.shields.io/pypi/v/k3s-client)](https://pypi.org/project/k3s-client/) |
 | [**cluster-builder**](https://github.com/Swarmchestrate/cluster-builder) | Provisions K3s clusters across AWS, OpenStack and Raspberry Pi with OpenTofu. Co-developer. | [![PyPI](https://img.shields.io/pypi/v/cluster-builder)](https://pypi.org/project/cluster-builder/) |
 | [**docker-stress-ng**](https://github.com/kotak-Gunjan/docker-stress-ng) | Multi-arch load testing image (amd64, arm64, armv7) built with buildx in GitHub Actions. | `docker pull gunjank05/stress-ng` |
 
 ### ✅ Recently shipped
 
 - Implemented automatic HTTPS for edge apps with Traefik Ingress and Let's Encrypt: services run on ports 80/443 with certificates issued and renewed automatically
+- Helped set up the project's end-to-end testbed across 3 partner sites, where an application goes from request to a running microservice in about 17 minutes
 
 ### 🔭 Currently working on
 
@@ -38,6 +39,6 @@ I build infrastructure automation that runs applications across cloud and edge, 
 
 ### 🧭 Background
 
-Previously Senior Software Engineer at LTIMindtree, building Spring Boot microservices and CI/CD pipelines for an IoT platform for Scania. MSc Advanced Computer Science (Distinction), University of Leicester.
+Previously Senior Software Engineer at LTI (now LTM) on an IoT platform for Scania AB: GitLab CI/CD deployments across Linux servers, Docker on Marathon (Apache Mesos), ELK monitoring and Java Spring Boot microservices. MSc Advanced Computer Science (Distinction), University of Leicester.
 
 💬 Open to Platform Engineering, DevOps and Research Software Engineering roles in the UK.
